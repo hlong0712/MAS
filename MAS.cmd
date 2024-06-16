@@ -2,23 +2,6 @@
 @setlocal DisableDelayedExpansion
 @echo off
 
-
-
-::  For command line switches, check mass grave[.]dev/command_line_switches.html
-::  If you want to better understand script, read from MAS separate files version. 
-
-
-::============================================================================
-::
-::   This script is a part of 'Microsoft-Activation-Scripts' (MAS) project.
-::
-::   Homepage: mass grave[.]dev
-::      Email: windowsaddict@protonmail.com
-::
-::============================================================================
-
-
-
 ::========================================================================================================================================
 
 ::  Set Path variable, it helps if it is misconfigured in the system
