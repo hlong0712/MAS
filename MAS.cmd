@@ -272,7 +272,7 @@ echo:
 echo:
 echo:       ____________________________________________________________________
 echo:
-echo:           Activation Methods
+echo:           Activation Methods - repack by hlong0712
 echo:
 echo:             [1] HWID        ^|  Windows           ^|   Permanent
 echo:             [2] Ohook       ^|  Office            ^|   Permanent
