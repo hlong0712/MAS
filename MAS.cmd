@@ -272,7 +272,7 @@ echo:
 echo:
 echo:       ____________________________________________________________________
 echo:
-echo:           Activation Methods - https://github.com/BsNgChiThanh/MAS-TOOL
+echo:           Activation Methods
 echo:
 echo:             [1] HWID        ^|  Windows           ^|   Permanent
 echo:             [2] Ohook       ^|  Office            ^|   Permanent
